@@ -1,4 +1,4 @@
-# Simple Pong Game
+# Simple Ping-Pong Game
 
 A classic Pong game implemented with HTML, CSS, and JavaScript.  
 The player controls the left paddle using the mouse, while the right paddle is managed by a basic AI. The game features a bouncing ball, paddle and wall collision detection, and score tracking.
