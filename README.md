@@ -19,7 +19,7 @@ The player controls the left paddle using the mouse, while the right paddle is m
    cd your-repo
    ```
 
-2. **Open `index.html` in your browser**  
+2. **Open `https://khyalipulaao.github.io/PingPongGame/` in your browser**  
    No build step or server required!
 
 ## Controls
@@ -34,8 +34,7 @@ The player controls the left paddle using the mouse, while the right paddle is m
 
 ## Screenshot
 
-![Pong Game Screenshot](screenshot.png)
+## License![Screenshot 2025-07-01 141525](https://github.com/user-attachments/assets/b376ebfe-6980-48f0-893e-20a9b0225616)
 
-## License
 
 This project is open source and available under the [MIT License](LICENSE).
